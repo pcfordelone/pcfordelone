@@ -32,19 +32,19 @@ Nesta viagem, sempre estive dividido entre design e desenvolvimento, caminhando 
 </div>
 
 <div align=center>
-  <img height="100rem" src="https://user-images.githubusercontent.com/7582747/179416452-f8f2fb1e-8513-4ae5-919a-10eadae3163b.svg" />
+  <img height="80rem" src="https://user-images.githubusercontent.com/7582747/179416452-f8f2fb1e-8513-4ae5-919a-10eadae3163b.svg" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="100rem" src="https://user-images.githubusercontent.com/7582747/179416455-bc569fb2-b6d6-4167-978f-0274a8425878.svg" />
+  <img height="80rem" src="https://user-images.githubusercontent.com/7582747/179416455-bc569fb2-b6d6-4167-978f-0274a8425878.svg" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="100rem" src="https://user-images.githubusercontent.com/7582747/179416458-096f0ce5-c362-47b0-be99-6d605a8c5833.svg" />
+  <img height="80rem" src="https://user-images.githubusercontent.com/7582747/179416458-096f0ce5-c362-47b0-be99-6d605a8c5833.svg" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="100rem" src="https://user-images.githubusercontent.com/7582747/179416461-7dea9f06-b8ce-4ba2-968f-2caa8dc38896.svg" />
+  <img height="80rem" src="https://user-images.githubusercontent.com/7582747/179416461-7dea9f06-b8ce-4ba2-968f-2caa8dc38896.svg" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="100rem" src="https://user-images.githubusercontent.com/7582747/179416462-5a5fdecc-cca5-4151-9a23-1b5fb3f936e4.svg" />
+  <img height="80rem" src="https://user-images.githubusercontent.com/7582747/179416462-5a5fdecc-cca5-4151-9a23-1b5fb3f936e4.svg" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="100rem" src="https://user-images.githubusercontent.com/7582747/179416464-90074d58-25db-43e6-a11d-cf5dff939495.svg" />
+  <img height="80rem" src="https://user-images.githubusercontent.com/7582747/179416464-90074d58-25db-43e6-a11d-cf5dff939495.svg" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="100rem" src="https://user-images.githubusercontent.com/7582747/179416457-1ba6249b-0787-47f4-ac93-7a7e77b6169e.svg" />
+  <img height="80rem" src="https://user-images.githubusercontent.com/7582747/179416457-1ba6249b-0787-47f4-ac93-7a7e77b6169e.svg" />
   &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
